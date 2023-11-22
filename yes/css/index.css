@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+header{
+    color: aqua;
+    text-align: center;
+}
+.image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1{
+    color: aqua;
+    
+}
+.text{
+    text-align: center;
+}
+.yes{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
